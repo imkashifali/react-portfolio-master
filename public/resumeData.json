@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": " Kashif Ali",
+    "occupation": "Full Stack Web Developer ",
+    "description": " by CodeNinja",
+    "image": "IG_Sonny.jpeg",
+    "bio": " Seeking a challenging job in an organization where I can utilize my skills, abilities, andpotential for the benefit of both organization and myself ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shafatkashi@gmail.com",
+    "phone": "+92 315 4912145",
+    "address": {
+      "street": "Nishatabad",
+      "city": "Faislabad",
+      "state": "Pakistan",
+      "zip": "38000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Mourner5/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kashif-ali-0a104986/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mourner_5/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kashifshafati",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "National College of Business Administration & Economics",
+        "degree": "BS Computer Science",
+        "graduated": "Sep 2014",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "E-Rozgaar Punjab University Lahore",
+        "degree": "E-Rozgaar ( Technical Domain)",
+        "graduated": "Jan 2018",
+        "description": "In e-Rozgaar Punjab University Center I brushup following skills for Web Development"
+      }
+    ],
+    "work": [
+      {
+        "company": "CodeNinja",
+        "title": "Software Engineer",
+        "years": "March 2018 - April 2019",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "44%"
+      },
+      {
+        "name": "PHP",
+        "level": "49%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "49%"
+      },
+      {
+        "name": "Node",
+        "level": "41%"
+      },
+      {
+        "name": "CSS",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%"
+      },
+      {
+        "name": "OOP",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg"
+       
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png"        
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
